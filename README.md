@@ -19,6 +19,5 @@ gross       float64
 company      object
 runtime     float64
 
-<img width="1032" alt="Screenshot 2023-11-21 at 1 30 52 PM" src="https://github.com/Hiteshjr24/Python_data_Analysis/assets/80192881/42575d35-87e3-4535-82d0-a2fe19f6f406">
 
 

@@ -27,11 +27,13 @@ country
 
 budget      
 
-gross       float64
+gross      
 
-company      object
+company      
 
-runtime     float64
+runtime    
+
+
 
 
 
